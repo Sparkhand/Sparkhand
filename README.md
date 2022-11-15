@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Davide 🐱🚀
+I'm an italian Computer Science student @ University of Parma 
 
-<!--
-**Sparkhand/Sparkhand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I'm up to 🛠️
+- 📚 I’m currently taking **Software Engineering**, **Computer Networks** and **Computer Graphics** courses
+- 🌱 I’m volunteering for [TEDxMantova](https://www.tedxmantova.com), where I'm in charge of the website
+- 🔭 "Curiosity did kill the cat, but I'm very curious" ~ B. Murphy
 
-Here are some ideas to get you started:
+### Let's get in touch 🤝
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidetarpini/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidetarpini@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### A joke before going back to work ☕
+![Jokes Card](https://readme-jokes.vercel.app/api)
