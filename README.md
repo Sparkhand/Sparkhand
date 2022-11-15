@@ -1,5 +1,5 @@
 ### Hi there, I'm Davide 🐱🚀
-I'm an italian Computer Science student @ University of Parma 
+I'm currently studying Computer Science at the University of Parma (Italy)
 
 ### What I'm up to 🛠️
 - 📚 I’m currently taking **Software Engineering**, **Computer Networks** and **Computer Graphics** courses
