@@ -1,5 +1,5 @@
 ### Hi there, I'm Davide 🐱🚀
-- 📚 I’m currently taking **Software Engineering**, **Computer Networks** and **Computer Graphics** courses
+- 📚 I’m currently taking **Artificial Intelligence**, **High-Performance Computing** and **Computer Graphics** courses
 - 🌱 I’m volunteering for [TEDxMantova](https://www.tedxmantova.com), where I'm in charge of the website
 - 🔭 "Curiosity did kill the cat, but I'm very curious" ~ B. Murphy
 
