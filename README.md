@@ -6,6 +6,3 @@
 ### Let's get in touch 🤝
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidetarpini/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidetarpini@gmail.com)
-
-### A joke before getting back to work ☕
-![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23&theme=react)
