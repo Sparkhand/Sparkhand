@@ -1,8 +1,6 @@
 ### Hi there, I'm Davide 🐱🚀
 - 📚 I’m currently taking **Artificial Intelligence**, **High-Performance Computing** and **Computer Graphics** courses
-- 🌱 I’m volunteering for [TEDxMantova](https://www.tedxmantova.com), where I'm in charge of the website
-- 🔭 "Curiosity did kill the cat, but I'm very curious" ~ B. Murphy
+- 🌱 I’m volunteering for [TEDxMantova](https://www.tedxmantova.com) as Webmaster
+- 📬 Reach me at davidetarpini[at]gmail[dot]com
 
-### Let's get in touch 🤝
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidetarpini/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidetarpini@gmail.com)
