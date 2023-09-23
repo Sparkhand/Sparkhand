@@ -1,4 +1,5 @@
 ## 🐱 Hi there, I'm Davide
+- 🎓 Bachelor of Science in Computer Science at University of Parma
 - 🌱 I’m volunteering for [TEDxMantova](https://www.tedxmantova.com) as Webmaster
 - 📬 Reach me at **davidetarpini[at]gmail[dot]com**
 
