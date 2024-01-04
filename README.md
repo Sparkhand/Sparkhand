@@ -1,4 +1,4 @@
-## 🐱 Hi there, I'm Davide
+## 🐱 Ciao, I'm Davide
 - 🎓 Bachelor of Science in Computer Science at University of Parma
 - 🧑‍🎓 [Ongoing] Master's degree in Computer Science and Engineering at University of Verona
 - 📖 Courses I'm currently taking:
