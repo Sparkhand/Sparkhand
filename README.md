@@ -1,6 +1,6 @@
 # 👋😺 Hey there, I'm Davide!
 
-🍕 *I really hope you brought pizza. I really do.*
+🍕 I hope you brought pizza. *I really do.*
 
 ## 🎒 Learning expeditions
 
