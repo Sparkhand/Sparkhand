@@ -6,11 +6,6 @@
 
 - 🎓 Bachelor of Science in Computer Science at University of Parma
 - 🧑‍🎓 [Ongoing] Master of Science in Computer Science and Engineering at University of Verona
-  - 📖 Courses I'm currently taking:
-    - [Design and validation of software systems](https://www.corsi.univr.it/?ent=cs&id=417&menu=studiare&tab=insegnamenti&codiceCs=S71&codins=4S011691&crediti=6.0&aa=2024/2025&lang=en)
-    - [Cryptography](https://www.corsi.univr.it/?ent=cs&id=417&menu=studiare&tab=insegnamenti&codiceCs=S71&codins=4S02797&crediti=6.0&aa=2024/2025&lang=en)
-    - [Human-Computer Interaction](https://www.corsi.univr.it/?ent=cs&id=417&menu=studiare&tab=insegnamenti&codiceCs=S71&codins=4S011699&crediti=6.0&aa=2024/2025&lang=en)
-    - [Artificial Intelligence](https://www.corsi.univr.it/?ent=cs&id=417&menu=studiare&tab=insegnamenti&codiceCs=S71&codins=4S011695&crediti=6.0&aa=2024/2025&lang=en)
  
 ## 💭 Pastime pleasures
 
