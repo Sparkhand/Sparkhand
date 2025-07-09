@@ -19,3 +19,7 @@
 
 - My e-mail address: davidetarpini[at]gmail[dot]com
 - My [LinkedIn profile](https://www.linkedin.com/in/davidetarpini/)
+
+---
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sparkhand&layout=compact&theme=dark)
